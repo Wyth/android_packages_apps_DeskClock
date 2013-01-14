@@ -50,7 +50,7 @@
        <com.android.deskclock.SnoozeLengthDialog
             android:key="snooze_duration"
             android:title="@string/snooze_duration_title"
-            android:defaultValue="10"/>
+            android:defaultValue="5"/>
 
         <VolumePreference
             android:title="@string/alarm_volume_title"
